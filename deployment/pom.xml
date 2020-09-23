@@ -16,14 +16,12 @@
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-core-deployment</artifactId>
         </dependency>
-
         <dependency>
             <groupId>org.github.keking</groupId>
             <artifactId>quarkus-apollo-config-ext</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
-
 
     <build>
         <plugins>

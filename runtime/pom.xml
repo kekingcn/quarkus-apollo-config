@@ -20,7 +20,6 @@
             <optional>true</optional>
         </dependency>
 
-        <!-- aliyun-log -->
         <dependency>
             <groupId>com.ctrip.framework.apollo</groupId>
             <artifactId>apollo-client</artifactId>
